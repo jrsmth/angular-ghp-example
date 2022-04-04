@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 
 #background-img {
-    background-image: url("../../../../resources/london.jpg");
+    background-image: url("./assets/london.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
